@@ -1,3 +1,6 @@
+/*
+   Configurando Header/Menu
+*/
 .header_area .main-menu .navbar .navbar-brand{
 padding: 0 2rem 0 5rem;
 }
@@ -27,3 +30,7 @@ padding: 1rem 10rem;
     background-clip: text;
 
 }
+
+/*
+   Termino da configuração Header/Menu
+*/
