@@ -1,0 +1,29 @@
+.header_area .main-menu .navbar .navbar-brand{
+padding: 0 2rem 0 5rem;
+}
+
+.header_area .main-menu .navbar{
+padding: 1rem 10rem;
+}
+
+.header_area .main-menu .nav-item .nav-link{
+    text-transform: uppercase;
+    padding: 1.7rem;
+    color: #141313;
+}
+
+.header_area .main-menu .navbar .active{
+    background: linear-gradient(90deg, #4458dc 0%,#854fee 100% );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+}
+
+.header_area .main-menu .navbar a:hover{
+    background: linear-gradient(90deg, #4458dc 0%,#854fee 100% );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+}
